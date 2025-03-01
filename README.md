@@ -1,9 +1,5 @@
 # WhatsApp Chat Analyzer
 
-![WhatsApp Chat Analyzer](./demo.png)
-
-This repository contains the **WhatsApp Chat Analyzer** project, a tool that allows you to analyze and extract insights from WhatsApp chat exports.
-
 
 ## Introduction
 
@@ -28,7 +24,7 @@ To get a local copy of this project up and running, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/karanprasadgupta/WhatsAppChatAnalzyer.git
+   git clone https://github.com/Vigneshreddy625/WhatsAppChatAnalzyer.git
    ```
 2. Navigate to the project directory:
    ``` shell
